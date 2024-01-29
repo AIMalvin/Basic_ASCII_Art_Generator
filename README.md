@@ -25,12 +25,3 @@ The ASCII Art Generator script takes an image file as input and converts it into
 - `image_to_ascii(file_path, new_width=50)`: Main function to convert an image to ASCII art.
 - `main(new_width=100)`: Entry point of the script.
 
-## Customization
-
-You can adjust the ASCII characters used for the art by modifying the `ASCII_CHARS` list in the script. You can also change the default width of the ASCII art by adjusting the `new_width` parameter.
-
-## Example
-
-```python
-if __name__ == '__main__':
-    main(new_width=100)  # You can change the width as needed
