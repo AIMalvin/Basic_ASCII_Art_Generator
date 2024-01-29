@@ -2,6 +2,9 @@
 
 This script converts images into ASCII art using the Python Imaging Library (PIL).
 
+![image](https://github.com/AIMalvin/Basic_ASCII_Art_Generator/assets/69598452/2e853814-ffe1-4803-b544-e03f65d1ba79)
+
+
 ## Description
 
 The ASCII Art Generator script takes an image file as input and converts it into ASCII art. It resizes the image, converts it to grayscale, and then maps each pixel to a corresponding ASCII character based on its intensity.
